@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "commitizen-playground"
-version = "0.1.1"
+version = "0.2.0"
 description = ""
 authors = ["heumsi <heumsi@naver.com>"]
 
@@ -13,7 +13,7 @@ commitizen = "^2.17.6"
 
 [tool.commitizen]
 name = "cz_conventional_commits"
-version = "0.1.1"
+version = "0.2.0"
 version_files = [
     "pyproject.toml:version"
 ]
